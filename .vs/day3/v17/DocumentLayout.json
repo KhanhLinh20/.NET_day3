@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Asp\\day3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B63C6D99-4695-40D4-9AD9-85ACDF240BF8}|day3\\day3.csproj|d:\\asp\\day3\\day3\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B63C6D99-4695-40D4-9AD9-85ACDF240BF8}|day3\\day3.csproj|solutionrelative:day3\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B63C6D99-4695-40D4-9AD9-85ACDF240BF8}|day3\\day3.csproj|d:\\asp\\day3\\day3\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B63C6D99-4695-40D4-9AD9-85ACDF240BF8}|day3\\day3.csproj|solutionrelative:day3\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B63C6D99-4695-40D4-9AD9-85ACDF240BF8}|day3\\day3.csproj|d:\\asp\\day3\\day3\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B63C6D99-4695-40D4-9AD9-85ACDF240BF8}|day3\\day3.csproj|solutionrelative:day3\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B63C6D99-4695-40D4-9AD9-85ACDF240BF8}|day3\\day3.csproj|d:\\asp\\day3\\day3\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{B63C6D99-4695-40D4-9AD9-85ACDF240BF8}|day3\\day3.csproj|solutionrelative:day3\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Asp\\day3\\day3\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "day3\\Views\\Product\\Create.cshtml",
+              "ToolTip": "D:\\Asp\\day3\\day3\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "day3\\Views\\Product\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-26T12:08:31.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Asp\\day3\\day3\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "day3\\Views\\Product\\Index.cshtml",
+              "ToolTip": "D:\\Asp\\day3\\day3\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "day3\\Views\\Product\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-26T11:42:58.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\Asp\\day3\\day3\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "day3\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\Asp\\day3\\day3\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "day3\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwBwAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T11:40:03.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "D:\\Asp\\day3\\day3\\Models\\Model1.edmx",
+              "RelativeDocumentMoniker": "day3\\Models\\Model1.edmx",
+              "ToolTip": "D:\\Asp\\day3\\day3\\Models\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "day3\\Models\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-03-26T11:38:05.626Z",
+              "EditorCaption": " [Diagram1]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
